@@ -1,0 +1,6 @@
+# Placeholder - not used until GNSS/map localization is added
+map:
+  name: none
+  frame_id: map
+  datum: {latitude: null, longitude: null, altitude: null}
+  files: []
